@@ -1,5 +1,7 @@
 # Lab 8 - Starter
 
+Jingxian Wang(no partner)
+
    1) The answer I chose: 1. Within a Github action that runs whenever code is pushed.
    
       Reason: When we push the code to remote repository, the scripts will run the automatically test. If we manualy run them locally, then it is not really automatic. And if we want to test them locally, we could have other way to test it. And for the run them all after all development is completed option. We shouldn't test the code after all of them are finished. It will be to difficult to debug and may cause the serious error which is hard to fix. So the good time to run automated tests is when we finish one part, we push it to the repository and run the test in Github action.  
